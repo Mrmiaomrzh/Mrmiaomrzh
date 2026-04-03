@@ -19,7 +19,7 @@
 
 ## 📊 My GitHub Stats
 <div align="center">
-  [Metrics](.github-metrics.svg)
+  [Metrics](./github-metrics.svg)
 </div>
 - 😓
 
