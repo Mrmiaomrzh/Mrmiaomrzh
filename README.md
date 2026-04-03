@@ -19,8 +19,7 @@
 
 ## 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrmiaomrzh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrmiaomrzh&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
+  [Metrics](./github-metrics.svg)
 </div>
 - 😓
 
