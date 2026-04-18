@@ -20,7 +20,7 @@
 ## 📊 My GitHub Stats
 <div align="center">
   🚧 Profile under construction.
-  [Metrics](https://raw.githubusercontent.com/Mrmiaomrzh/Mrmiaomrzh/refs/heads/main/github-metrics.svg)
+  <img src="https://raw.githubusercontent.com/Mrmiaomrzh/Mrmiaomrzh/main/github-metrics.svg" width="500" alt="Metrics">
 </div>
 - 😓
 
