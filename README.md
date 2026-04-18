@@ -19,10 +19,9 @@
 
 ## 📊 My GitHub Stats
 <div align="center">
-  🚧 Profile under construction.
   <img src="https://raw.githubusercontent.com/Mrmiaomrzh/Mrmiaomrzh/main/github-metrics.svg" width="500" alt="Metrics">
 </div>
-- 😓
+- 😓 🚧 Profile under construction.
 
 ## 🌟 Just for Fun
 | Project Name | Tech Stack | Description |
