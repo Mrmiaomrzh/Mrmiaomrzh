@@ -17,11 +17,17 @@
 - 🌱 Learning: .NET 
 - ⚡ Interests: Steam gaming enthusiast
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mrmiaomrzh/Mrmiaomrzh/main/github-metrics.svg" width="500" alt="Metrics">
+
+<img src="https://raw.githubusercontent.com/Mrmiaomrzh/Mrmiaomrzh/main/github-metrics.svg" width="500" />
+
+<a href="https://githubroast.icu/u/Mrmiaomrzh">
+  <img src="https://githubroast.icu/api/card/Mrmiaomrzh" width="600" />
+</a>
+
 </div>
-- 😓 🚧 Profile under construction.
 
 ## 🌟 Just for Fun
 | Project Name | Tech Stack | Description |
