@@ -23,10 +23,6 @@
 
 <img src="https://raw.githubusercontent.com/Mrmiaomrzh/Mrmiaomrzh/main/github-metrics.svg" width="500" />
 
-<a href="https://githubroast.icu/u/Mrmiaomrzh">
-  <img src="https://githubroast.icu/api/card/Mrmiaomrzh" width="600" />
-</a>
-
 </div>
 
 ## 🌟 Just for Fun
