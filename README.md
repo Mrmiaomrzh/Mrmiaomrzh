@@ -25,11 +25,6 @@
 
 </div>
 
-## 🌟 Just for Fun
-| Project Name | Tech Stack | Description |
-|---------|--------|------|
-| [PVZ_Weihua Installer](https://github.com/PVZ-Weihua/PVZ_Weihua_installer) | Inno Setup | A PVZ_Weihua packaging program based on Inno Setup |
-
 ## 🎨 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mrmiaomrzh&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
